@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **rafhahamza@gmail.com**
 
+- I write blogs on Cyber Security. Check them out on [https://hamzahamza.me/blogs](https://hamzahamza.me/blogs)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/userhamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="userhamza" height="30" width="40" /></a>
@@ -29,4 +31,3 @@
 
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alrafha&show_icons=true&locale=en" alt="alrafha" /></p>
